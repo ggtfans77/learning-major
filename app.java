@@ -4,5 +4,7 @@ public class app{
         /*
         Code added -- dummy
         */
+
+       //another line of code added from feature branch
     }
 }
